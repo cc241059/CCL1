@@ -1,6 +1,6 @@
 # 🎮 **Clash Of Titans** 
 
-> **Short Pitch**: Fight against your friend in japanese samurai era and prove that ur the samurai.
+> **Short Pitch**: Fight against your friend in japanese samurai era and prove that you are the real samurai.
 
 🌐 Play the Game
 [Click here to play the game!](https://cc241059.github.io/game/)
