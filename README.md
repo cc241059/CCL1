@@ -2,8 +2,8 @@
 
 > **Short Pitch**: Fight against your friend in japanese samurai era and prove that ur the samurai.
 
-🌐 Play the Game
-
+## 🌐 **Play the Game**
+[Click here to play the game!](https://github.com/cc241059/CCL1/tree/game/CreativeCodeLabs)
 
 ## 📸 **Screenshots**
 ### Menu
