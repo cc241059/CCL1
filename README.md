@@ -19,7 +19,7 @@ Example of gameplay at the start of the game.
 ## Player 2
 ![image](https://github.com/user-attachments/assets/b4189dad-4d0f-4d47-8c98-beb4e0036cc4)
 
-### What Went Well:
+### ✍️ What Went Well:
 **Creative Design:** The character sprites and animations turned out great, and I really enjoyed designing the attack and jump sequences.
 Core Mechanics: The basic fighting mechanics, like movement and attack handling, worked smoothly and provided a satisfying player experience.
 
